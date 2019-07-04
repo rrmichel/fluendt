@@ -1,5 +1,6 @@
 FROM fluent/fluentd:v1.5-1
-MAINTAINER Michel <rmichel@devnu11.net>
+
+LABEL build="Thu 04 Jul 2019 10:53:53 PM CEST"
 
 USER root
 
