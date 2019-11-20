@@ -1,6 +1,6 @@
-FROM fluent/fluentd:v1.5-1
+FROM fluent/fluentd:v1.6-1
 
-LABEL build="Thu 04 Jul 2019 10:53:53 PM CEST"
+LABEL build="Wed 20 Nov 2019 10:03:40 PM CET"
 
 USER root
 
